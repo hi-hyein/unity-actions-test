@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{9B790608-A0F6-EE57-AB61-6BB9C7567108}|">
+  <MonoDevelop.Ide.ItemProperties.NewAssembly PreferredExecutionTarget="b9783aa0-830b-4e04-83a4-bf2f4c711180" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Tests/Square.cs">
+    <Files>
+      <File FileName="Assets/Square.cs" Line="7" Column="14" />
+      <File FileName="Assets/Tests/NewTestScript.cs" Line="11" Column="35" />
+      <File FileName="Assets/Tests/Tests.asmdef" Line="12" Column="2" />
+      <File FileName="Assets/Tests/Square.cs" Line="20" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnityTestRunner" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Tests" expanded="True">
+                <Node name="Square.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b9783aa0-830b-4e04-83a4-bf2f4c711180" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
