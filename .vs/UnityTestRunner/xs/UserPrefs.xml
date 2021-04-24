@@ -1,9 +1,8 @@
-﻿<Properties StartupConfiguration="{9B790608-A0F6-EE57-AB61-6BB9C7567108}|">
-  <MonoDevelop.Ide.ItemProperties.NewAssembly PreferredExecutionTarget="b9783aa0-830b-4e04-83a4-bf2f4c711180" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Tests/Square.cs">
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{9B790608-A0F6-EE57-AB61-6BB9C7567108}|">
+  <MonoDevelop.Ide.ItemProperties.NewAssembly PreferredExecutionTarget="f424099b-340a-4724-a855-7514bbbbeb6a" />
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="Assets/Square.cs" Line="7" Column="14" />
-      <File FileName="Assets/Tests/NewTestScript.cs" Line="11" Column="35" />
       <File FileName="Assets/Tests/Tests.asmdef" Line="12" Column="2" />
       <File FileName="Assets/Tests/Square.cs" Line="20" Column="30" />
     </Files>

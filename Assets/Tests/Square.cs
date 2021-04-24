@@ -17,7 +17,7 @@ namespace Tests
             int b = 2;
             int c = a + b;
 
-            Assert.AreEqual(3, c);
+            Assert.AreEqual(4, c);
 
         }
 
