@@ -34,4 +34,9 @@ public class Square : MonoBehaviour
 
         transform.position += movePosition * movePower * Time.deltaTime;
     }
+
+    public int SquareTest(int a, int b)
+    {
+        return a + b;
+    }
 }

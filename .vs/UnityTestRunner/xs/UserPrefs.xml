@@ -1,10 +1,10 @@
 ﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{9B790608-A0F6-EE57-AB61-6BB9C7567108}|">
-  <MonoDevelop.Ide.ItemProperties.NewAssembly PreferredExecutionTarget="f424099b-340a-4724-a855-7514bbbbeb6a" />
+  <MonoDevelop.Ide.ItemProperties.NewAssembly PreferredExecutionTarget="5cf77b36-66cc-42a2-b45f-db11ef87ceed" />
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="Assets/Square.cs" Line="7" Column="14" />
+      <File FileName="Assets/Square.cs" Line="38" Column="26" />
       <File FileName="Assets/Tests/Tests.asmdef" Line="12" Column="2" />
-      <File FileName="Assets/Tests/Square.cs" Line="20" Column="30" />
+      <File FileName="Assets/Tests/SquareTest.cs" Line="21" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,7 +12,7 @@
           <Node name="UnityTestRunner" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Tests" expanded="True">
-                <Node name="Square.cs" selected="True" />
+                <Node name="SquareTest.cs" selected="True" />
               </Node>
             </Node>
           </Node>
